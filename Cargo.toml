@@ -1,0 +1,13 @@
+[package]
+name = "neuron-rs"
+version = "0.0.1"
+authors = ["Dexter Darwich <hello@neuron.rs>"]
+description = "Neuron is an actor system for building reactive, concurrent, and resilient distributed services, for the Rust programming language."
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/neuron-rs/neuron-rs.git"
+homepage = "https://neuron.rs"
+documentation = "https://docs.rs/neuron-rs/"
+keywords = ["neuron-rs", "actors", "framework", "async", "reactive", "distributed"]
+
+[dependencies]
