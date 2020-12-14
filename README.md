@@ -1,5 +1,8 @@
 # Neuron
 
+![Build and run tests](https://github.com/neuron-rs/neuron-rs/workflows/Build%20and%20run%20tests/badge.svg)
+
+
 ## Overview
 Neuron is an actor system for building reactive, concurrent, and resilient distributed services, for the Rust programming language.
 
