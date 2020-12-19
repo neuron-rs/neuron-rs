@@ -8,6 +8,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/neuron-rs/neuron-rs.git"
 homepage = "https://neuron.rs"
 documentation = "https://docs.rs/neuron-rs/"
-keywords = ["neuron-rs", "actors", "framework", "async", "reactive", "distributed"]
+keywords = ["neuron-rs", "actors", "framework", "async", "reactive", "distributed", "cqrs"]
+readme = "README.md"
 
 [dependencies]
