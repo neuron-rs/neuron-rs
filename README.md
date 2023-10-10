@@ -1,6 +1,6 @@
 # Neuron
 
-[![CI](https://github.com/neuron-rs/neuron-rs/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/neuron-rs/neuron-rs/actions/workflows/ci.yaml)
+[![CI](https://github.com/neuron-rs/neuron-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/neuron-rs/neuron-rs/actions/workflows/ci.yml)
 
 ## Overview
 
