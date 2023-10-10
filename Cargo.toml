@@ -1,9 +1,9 @@
 [package]
 name = "neuron-rs"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Dex <dexwritescode@proton.me>"]
 categories = ["asynchronous", "concurrency"]
-description = "derive(Error)"
+description = "An actor system for building reactive, concurrent, and resilient distributed services"
 documentation = "https://docs.rs/neuron-rs"
 keywords = ["async", "reactive", "distributed", "actors", "cqrs"]
 license = "MIT OR Apache-2.0"
