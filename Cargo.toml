@@ -1,0 +1,13 @@
+[package]
+name = "neuron-rs"
+version = "0.0.2"
+authors = ["Dex <dexwritescode@proton.me>"]
+categories = ["asynchronous", "concurrency"]
+description = "derive(Error)"
+documentation = "https://docs.rs/neuron-rs"
+keywords = ["async", "reactive", "distributed", "actors", "cqrs"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/neuron-rs/neuron-rs"
+rust-version = "1.73"
+
+[dependencies]
