@@ -1,5 +1,7 @@
 # Neuron
 
+[![CI](https://github.com/neuron-rs/neuron-rs/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/neuron-rs/neuron-rs/actions/workflows/ci.yaml)
+
 ## Overview
 
 An actor system for building reactive, concurrent, and resilient distributed services.
